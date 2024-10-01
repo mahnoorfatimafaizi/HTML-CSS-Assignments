@@ -1,0 +1,98 @@
+.table-heading {
+  border-bottom: 3px double black; 
+  text-align: center; 
+}
+
+body {
+  background-color: rgb(253, 203, 212);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 5px solid black;
+    background-color: whitesmoke;
+  }
+
+td {
+    border: 1px solid #000;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+td, th {
+    border: 3px solid black;
+    text-align: center;
+    padding: 10px; 
+  }
+
+.hydrogen {
+    background-color: white;
+    color: black; 
+  }
+  
+.carbon {
+    background-color: black;
+    color: white;
+  }
+  
+.nitrogen {
+    background-color: rgb(42, 90, 222);
+  }
+  
+.oxygen {
+    background-color: rgb(249, 25, 25);
+  }
+  
+.fluorine, .chlorine {
+    background-color: rgb(5, 192, 5);
+  }
+  
+.bromine {
+    background-color: rgb(154, 9, 9);
+  }
+  
+.iodine {
+    background-color: rgb(151, 20, 207);
+  }
+  
+.noble-gas {
+    background-color: rgb(109, 250, 250);
+    color: black; 
+  }
+  
+.phosphorus {
+    background-color: rgb(253, 179, 41);
+  }
+  
+.sulfur {
+    background-color: rgb(249, 249, 51);
+    color: black; 
+  }
+  
+.boron, .transition-metal {
+    background-color: rgb(240, 240, 174);
+    color: black; 
+  }
+  
+.alkali-metal {
+    background-color: rgb(233, 164, 233);
+  }
+  
+.alkaline-earth-metal {
+    background-color: rgb(10, 163, 10);
+  }
+  
+.titanium {
+    background-color: rgb(136, 135, 135);
+  }
+  
+.iron {
+    background-color: rgb(251, 157, 42);
+  }
+  
+.other-elements {
+    background-color: rgb(239, 162, 175);
+  }
